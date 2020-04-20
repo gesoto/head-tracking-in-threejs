@@ -1,4 +1,6 @@
 
+//-- IN PROGRESS --
+
 // We'll store the value of te bars we want to draw in here
 const bars = [];
 let bars2;
