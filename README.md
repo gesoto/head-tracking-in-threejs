@@ -1,5 +1,4 @@
 An experiment that maps head tracking position into a 3D camera rotation.
-
 It was created using [headtrackr.js](https://github.com/auduno/headtrackr) and [Three.js](https://github.com/mrdoob/three.js)
 
 ![Image of description](readme-content/description1.gif)
